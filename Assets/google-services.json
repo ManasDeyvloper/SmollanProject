@@ -1,0 +1,30 @@
+{
+  "project_info": {
+    "project_number": "727722928607",
+    "firebase_url": "https://smollanproject-default-rtdb.asia-southeast1.firebasedatabase.app",
+    "project_id": "smollanproject",
+    "storage_bucket": "smollanproject.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:727722928607:android:d94612ef8229412b17bc6a",
+        "android_client_info": {
+          "package_name": "com.UnityTechnologies.com.unity.template.urpblank"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCviONX32VCOccu8W4ZcaAYI6VaDkQLkQw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
